@@ -1,0 +1,1 @@
+((ifleq0 5 (λ (num) (println num)) (λ (num) (println (+ num 1)))) 10)
